@@ -2,6 +2,6 @@
 
 class Sessions {
 
-
+  private $test;
 
 }
